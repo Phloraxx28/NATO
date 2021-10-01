@@ -2,6 +2,10 @@ body {
   background-color: black;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("natto.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: 400px;
 }
 
 .header{
@@ -30,7 +34,7 @@ marquee {
     margin-top: 60px;
     color: white;
     font-family: '18 ARMY Regular';
-    font-size: 130px;
+    font-size: 135px;
     /* text-align: left; */
     /* padding-left: 100px; */
   }
