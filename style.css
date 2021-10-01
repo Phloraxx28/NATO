@@ -10,7 +10,7 @@ body {
 }
 
 .header-right{
-  float: center; 
+  float: right;
 }
 
 .header img{
@@ -27,12 +27,13 @@ marquee {
 }
 
 .NATO {
-  margin-top: 60px;
+    margin-top: 60px;
     color: white;
     font-family: '18 ARMY Regular';
     font-size: 130px;
-    text-align: left;
-}
+    /* text-align: left; */
+    /* padding-left: 100px; */
+  }
 
 .ribon{
   margin-top: -50px;
