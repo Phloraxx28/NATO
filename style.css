@@ -1,16 +1,17 @@
 body {
-  background-color: black;
+  background-color: white;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("natto.png");
-    background-repeat: no-repeat, repeat;
-    background-position: center;
-    background-size: 300px;
 }
 
 .header{
   overflow: hidden;
   padding: 20px;
+  background-image: url("natto.png");
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  background-size: 300px;
+  background-color: black;
 }
 
 .header-right{
@@ -27,7 +28,7 @@ marquee {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    height: 20px;
+    height: 22px;
 }
 
 .NATO {
@@ -80,6 +81,58 @@ marquee {
 
 .ribon{
   margin-top: -50px;
+}
+
+#menu {
+  margin: 0;
+  width: auto;
+  background-color: #565656;
+  font-size: 16px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  text-align: left;
+  padding: 8px;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -o-border-radius: 8px;
+  margin-top: -5px;
+}
+
+#menu ul {
+  margin: 0;
+  padding: 8px 0;
+  list-style: none;
+  height: auto;
+}
+
+#menu li {
+  display: inline;
+  padding: 8px;
+}
+
+#menu a {
+  color: #FFF;
+  padding: 10px;
+  text-decoration: none;
+}
+
+#menu a:hover {
+  background-color: #1B191B;
+  color: #FFF;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+#menu li .active {
+  background-color: #1B191B;
+  color: #FFF;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
 }
 
 @font-face {
