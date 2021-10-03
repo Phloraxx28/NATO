@@ -195,3 +195,21 @@ marquee {
   h1{
     text-align: center;
   }
+
+  .map{
+    height: 400px;
+    width: 30%;
+    margin: 0 auto;
+  }
+
+  .titlu{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+  .desprenoi{
+    height: 200px;
+    width: 30%;
+    margin: 0 auto;
+  }
