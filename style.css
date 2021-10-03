@@ -161,3 +161,33 @@ marquee {
     padding: 35px;
     display: inline-block;
   }
+ 
+  .images
+{
+  display: inline-block;
+  width: 600px;
+  height: 400px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+#content
+{
+ display: block;
+ margin: 0px;
+ padding: 0px;
+ position: relative;
+ top: 90px;
+ height: auto;
+ max-width: auto;
+ overflow-y: hidden;
+ overflow-x:auto;
+}
+
+  .portret{
+    display: inline-block;
+    width: 400px;
+    height: 500px;
+    padding: 30px;
+    margin-left: 30px;
+  }
