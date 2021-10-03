@@ -141,3 +141,23 @@ marquee {
   font-weight: normal;
   src: local('18 ARMY Regular'), url('fonts/18 ARMY.woff') format('woff');
   }
+
+  .video{
+    padding: 35px;
+    display: inline-block;
+  }
+
+  .video2{
+    padding: 35px;
+    display: inline-block;
+  }
+
+  .video3{
+    padding: 35px;
+    display: inline-block;
+  }
+
+  .video4{
+    padding: 35px;
+    display: inline-block;
+  }
