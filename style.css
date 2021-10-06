@@ -200,16 +200,86 @@ marquee {
     height: 400px;
     width: 30%;
     margin: 0 auto;
+    display: block;
   }
 
   .titlu{
     font-size: 50px;
-    font-weight: bold;
     font-family: sans-serif;
   }
 
   .desprenoi{
-    height: 200px;
+    height: 350px;
     width: 30%;
     margin: 0 auto;
+    display: block;
+  }
+
+  .subtitlu{
+    font-size: 30px;
+  }
+
+  .parteneri{
+     border-radius: 50%;
+     width: 150px;
+     border: 20px;
+     display: inline-block;
+     background-color: #141213;
+     margin: 50px;
+  }
+
+  .parteneri img{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #echipa{
+    font-size: 45px;
+  }
+
+  .membri-out{
+    height: 230px;
+    width: 1800px;
+    margin: 0 auto;
+    margin-top: 600px;
+  }
+
+  .membri-in{
+    height: 200px;
+    width: 1600px;
+    margin: 0 auto;
+  }
+
+  .numele-out{
+    height: 50px;
+    width: 1800px;
+    margin: 0 auto;
+  }
+
+  .numele-in{
+    height: 50px;
+    width: 1600px;
+    margin: 0 auto;
+  }
+
+  .numele-in span{
+    margin: 40px;
+    font-size: 25px;
+  }
+
+  .functie-out{
+    height: 150px;
+    width: 1800px;
+    margin: 0 auto;
+  }
+
+  .functie-in{
+    height: 50px;
+    width: 1600px;
+    margin: 0 auto;
+  }
+
+  .functie-in span{
+    margin: 40px;
+    font-size: 16px;
   }
