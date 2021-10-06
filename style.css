@@ -283,3 +283,20 @@ marquee {
     margin: 40px;
     font-size: 16px;
   }
+
+  .contact-out{
+    height: 200px;
+    width: 1800px;
+    margin: 0 auto;
+  }
+
+  .contact-in{
+    height: 50px;
+    width: 1600px;
+    margin: 0 auto;
+  }
+
+  .contact-in span{
+    margin: 40px;
+    font-size: 40px;
+  }
