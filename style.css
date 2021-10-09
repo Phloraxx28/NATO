@@ -300,3 +300,35 @@ marquee {
     margin: 40px;
     font-size: 40px;
   }
+
+  .parteneri-out{
+    height: 900px;
+    width: 1800px;
+    margin: 0 auto;
+  }
+
+  .parteneri-in{
+    height: 600px;
+    width: 1200px;
+    display: block;
+  }
+
+  .fundal-out{
+    background-image: url("armyback.jpg");
+    height: 1300px;
+    width: 3000px;
+    background-repeat: no-repeat;
+    background-size: 2600px;
+  }
+
+  #myaudio{
+    margin-top: -60px;
+    position: absolute;
+  }
+
+  .fundal-in span{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: blanchedalmond;
+  }
