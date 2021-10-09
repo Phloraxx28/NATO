@@ -316,9 +316,10 @@ marquee {
   .fundal-out{
     background-image: url("armyback.jpg");
     height: 1300px;
-    width: 3000px;
+    width: 2500px;
     background-repeat: no-repeat;
-    background-size: 2600px;
+    background-size: 2500px;
+    margin: 0 auto;
   }
 
   #myaudioindex{
