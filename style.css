@@ -332,3 +332,8 @@ marquee {
     font-weight: 700;
     color: blanchedalmond;
   }
+
+  .cop{
+    text-align: right;
+    color: white;
+  }
