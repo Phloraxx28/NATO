@@ -346,6 +346,11 @@ marquee {
     position: absolute;
   }
 
+  #myaudiopareri{
+    margin-top: -60px;
+    position: absolute;
+  }
+
   .fundal-in span{
     font-size: 30px;
     font-family: sans-serif;
@@ -371,4 +376,24 @@ marquee {
     width: 100%;
     height: 50px;
     margin-left: -50px;
+  }
+
+   .pareri-out{
+     white-space: nowrap;
+     width: 100%;
+     height: 800px;
+   }
+
+   .formular{
+     display: inline-block;
+     width: 50%;
+     height: 700px;
+   }
+
+   .pool{
+    display: inline-block;
+    width: 50%;
+    height: 700px;
+    margin-top: 80px;
+    position: absolute;
   }
