@@ -397,3 +397,61 @@ marquee {
     margin-top: 80px;
     position: absolute;
   }
+
+  /* .scurtatura{
+    background: transparent;
+    overflow: visible;
+} */
+.scurtatura a{
+    float: right;
+    color: black;
+    text-align: left;
+    padding: 14px 25px;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+.scurtatura a:hover{
+    background-color:black;
+    color: white;
+    opacity: 75%;
+}
+
+.scurtatura a:active {
+    background-color: white;
+    color: black;
+}
+
+.continut-out{
+  width: 2000px;
+  height: 5000px;
+  margin: 0 auto;
+}
+
+.continut-in{
+  width: 1200px;
+  height: 2000px;
+  margin: 0 auto;
+}
+
+  #Introducere{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Introducere-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Istoric{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Istoric-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
