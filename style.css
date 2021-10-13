@@ -424,7 +424,7 @@ marquee {
 
 .continut-out{
   width: 2000px;
-  height: 5000px;
+  height: 9000px;
   margin: 0 auto;
 }
 
@@ -452,6 +452,39 @@ marquee {
   }
 
   #Istoric-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Rolul_NATO{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Rolul_NATO-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Principii{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Principii-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #Romania{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Romania-in{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
   }
