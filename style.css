@@ -424,7 +424,7 @@ marquee {
 
 .continut-out{
   width: 2000px;
-  height: 9000px;
+  height: 12800px;
   margin: 0 auto;
 }
 
@@ -487,4 +487,20 @@ marquee {
   #Romania-in{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Istorisiri{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #Istorisiri-in{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .download a{
+    text-decoration: none;
+    color: #141213;
   }
